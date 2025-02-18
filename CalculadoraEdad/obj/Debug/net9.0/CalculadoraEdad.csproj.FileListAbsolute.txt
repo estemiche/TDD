@@ -1,0 +1,5 @@
+c:\TDD\CalculadoraEdad\obj\Debug\net9.0\CalculadoraEdad.GeneratedMSBuildEditorConfig.editorconfig
+c:\TDD\CalculadoraEdad\obj\Debug\net9.0\CalculadoraEdad.AssemblyInfoInputs.cache
+c:\TDD\CalculadoraEdad\obj\Debug\net9.0\CalculadoraEdad.AssemblyInfo.cs
+c:\TDD\CalculadoraEdad\obj\Debug\net9.0\CalculadoraEdad.csproj.CoreCompileInputs.cache
+c:\TDD\CalculadoraEdad\obj\Debug\net9.0\CalculadoraEdad.sourcelink.json
