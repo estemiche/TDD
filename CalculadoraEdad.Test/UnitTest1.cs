@@ -1,5 +1,4 @@
-﻿using System;
-using Xunit;
+﻿using System.Text;
 using CalculadoraEdad;
 
 namespace CalculadoraEdad.Test
@@ -12,7 +11,7 @@ namespace CalculadoraEdad.Test
         {
             var fechaNacimiento = new DateTime(2000, 2, 17);  
             var fechaActual = new DateTime(2025, 2, 16);      
-            var calculadora = new CalculadoraEdad();         
+            var calculadora = new EdadCal();         
 
         
             var edadCalculada = calculadora.CalcularEdad(fechaNacimiento, fechaActual); 
@@ -26,7 +25,7 @@ namespace CalculadoraEdad.Test
             
             var fechaNacimiento = new DateTime(2000, 2, 17);  
             var fechaActual = new DateTime(2025, 2, 18);      
-            var calculadora = new CalculadoraEdad();         
+            var calculadora = new EdadCal();         
         
 
             var edadCalculada = calculadora.CalcularEdad(fechaNacimiento, fechaActual);  
